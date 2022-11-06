@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1024px" height="1024px" viewBox="0 0 1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>App Icon@1.5x</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="App-Icon">
+            <rect id="Rectangle" fill="#272A2D" x="0" y="0" width="1024" height="1024" rx="163"></rect>
+            <g id="Logo" transform="translate(120.000000, 172.000000)">
+                <rect id="Rectangle" stroke="#7E63FF" stroke-width="40.8510638" x="20.4255319" y="20.4255319" width="743.148936" height="640.148936" rx="76.2553191"></rect>
+                <g id="Group" transform="translate(136.000000, 184.000000)">
+                    <rect id="Rectangle" stroke="#7E63FF" stroke-width="2.72340426" fill="#7E63FF" x="272.854239" y="1.36170213" width="235.784058" height="49.6735423" rx="24.8367712"></rect>
+                    <rect id="Rectangle-Copy-3" fill="#7E63FF" x="-2.84217094e-14" y="128.610687" width="446.029735" height="52.3969466" rx="26.1984733"></rect>
+                    <rect id="Rectangle-Copy-4" fill="#7E63FF" x="-2.84217094e-14" y="259.603053" width="248.656716" height="52.3969466" rx="26.1984733"></rect>
+                    <rect id="Rectangle-Copy-5" fill="#FF6B55" x="276.567164" y="259.603053" width="86.2686567" height="52.3969466" rx="26.1984733"></rect>
+                    <rect id="Rectangle-Copy-6" fill="#7E63FF" x="390.746269" y="259.603053" width="119.253731" height="52.3969466" rx="26.1984733"></rect>
+                    <rect id="Rectangle-Copy" fill="#7E63FF" x="-2.84217094e-14" y="2.84217094e-14" width="83.7313433" height="50.0152672" rx="25.0076336"></rect>
+                    <rect id="Rectangle-Copy-2" fill="#55E7FE" x="114.179104" y="2.84217094e-14" width="124.328358" height="50.0152672" rx="25.0076336"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
